@@ -11,8 +11,8 @@
 ### check readme for instructions
 ### check readme for instructions
 
-import time
-import random
+from random import randint
+from time import sleep
 import psutil
 
 def checkIfProcessRunning(processName):
@@ -27,9 +27,9 @@ def checkIfProcessRunning(processName):
 print("Looking for osu!.exe")
 if checkIfProcessRunning("osu!"):
     print("Initializing...")
-    time.sleep(10)
-    num = random.randint(0, 100)
-    if num == 1:
+    sleep(10)
+    num = randint(0, 100)
+    if num != 1:
         print("Megumi failed to initialize, please refer to the guide on the github readme.")
         exit()
     print("Megumi successfully initialized.")
