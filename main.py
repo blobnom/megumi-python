@@ -1,52 +1,15 @@
-### check readme for information
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### check readme for instructions
+### check readme for instructions
+### check readme for instructions
+### check readme for instructions
+### check readme for instructions
+### check readme for instructions
+### check readme for instructions
+### check readme for instructions
+### check readme for instructions
+### check readme for instructions
+### check readme for instructions
+### check readme for instructions
 
 import time
 import random
